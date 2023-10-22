@@ -18,4 +18,4 @@
 ### 2) 연구 과정
 ![process](readme-asset/process.png)
 ## 3. 연구 결과
-![result](텀프로젝트_결과발표.pdf)
+- [발표 자료 링크](텀프로젝트_결과발표.pdf)
